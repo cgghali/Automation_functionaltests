@@ -33,4 +33,8 @@ public class FuctionalTests extends BaseTest {
 
 	}
 
+	public void LogingPageTest() {
+
+	}
+
 }
