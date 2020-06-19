@@ -54,6 +54,8 @@
 			<groupId>com.ghali</groupId>
 			<artifactId>automation</artifactId>
 			<version>0.0.1</version>
+			<scope>system</scope>
+			<systemPath>C:\Users\ghali\.m2\repository\com\ghali\automation\0.0.1\automation-0.0.1.jar</systemPath>
 		</dependency>
 
 		<!-- maven-compiler-plugin -->
