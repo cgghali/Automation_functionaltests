@@ -23,7 +23,7 @@
 		<apache.commons.version>3.7</apache.commons.version>
 		<maven.compiler.plugin.version>3.7.0</maven.compiler.plugin.version>
 		<maven.surefire.plugin.version>2.21.0</maven.surefire.plugin.version>
-		<guava.version>27.0-jre</guava.version>
+		<guava.version>29.0-jre</guava.version>
 	</properties>
 
 	<build>
